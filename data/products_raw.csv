@@ -1,0 +1,301 @@
+product_id,product_name,category,sub_category
+P200,Product_0,Furniture,Furniture_Sub_5
+P201,Product_1,Technology,Technology_Sub_4
+P202,Product_2,Furniture,Furniture_Sub_5
+P203,Product_3,Office Supplies,Office Supplies_Sub_2
+P204,Product_4,Office Supplies,Office Supplies_Sub_5
+P205,Product_5,Technology,Technology_Sub_4
+P206,Product_6,Office Supplies,Office Supplies_Sub_2
+P207,Product_7,Furniture,Furniture_Sub_5
+P208,Product_8,Technology,Technology_Sub_5
+P209,Product_9,Furniture,Furniture_Sub_1
+P210,Product_10,Furniture,Furniture_Sub_4
+P211,Product_11,Office Supplies,Office Supplies_Sub_5
+P212,Product_12,Technology,Technology_Sub_5
+P213,Product_13,Technology,Technology_Sub_1
+P214,Product_14,Furniture,Furniture_Sub_1
+P215,Product_15,Furniture,Furniture_Sub_2
+P216,Product_16,Technology,Technology_Sub_2
+P217,Product_17,Furniture,Furniture_Sub_1
+P218,Product_18,Office Supplies,Office Supplies_Sub_4
+P219,Product_19,Furniture,Furniture_Sub_5
+P220,Product_20,Furniture,Furniture_Sub_4
+P221,Product_21,Office Supplies,Office Supplies_Sub_3
+P222,Product_22,Furniture,Furniture_Sub_2
+P223,Product_23,Technology,Technology_Sub_1
+P224,Product_24,Technology,Technology_Sub_5
+P225,Product_25,Technology,Technology_Sub_2
+P226,Product_26,Office Supplies,Office Supplies_Sub_2
+P227,Product_27,Technology,Technology_Sub_5
+P228,Product_28,Furniture,Furniture_Sub_1
+P229,Product_29,Technology,Technology_Sub_3
+P230,Product_30,Office Supplies,Office Supplies_Sub_2
+P231,Product_31,Technology,Technology_Sub_3
+P232,Product_32,Furniture,Furniture_Sub_1
+P233,Product_33,Office Supplies,Office Supplies_Sub_5
+P234,Product_34,Furniture,Furniture_Sub_4
+P235,Product_35,Technology,Technology_Sub_5
+P236,Product_36,Furniture,Furniture_Sub_2
+P237,Product_37,Furniture,Furniture_Sub_1
+P238,Product_38,Technology,Technology_Sub_4
+P239,Product_39,Office Supplies,Office Supplies_Sub_4
+P240,Product_40,Office Supplies,Office Supplies_Sub_5
+P241,Product_41,Furniture,Furniture_Sub_2
+P242,Product_42,Technology,Technology_Sub_5
+P243,Product_43,Office Supplies,Office Supplies_Sub_3
+P244,Product_44,Technology,Technology_Sub_1
+P245,Product_45,Technology,Technology_Sub_3
+P246,Product_46,Office Supplies,Office Supplies_Sub_2
+P247,Product_47,Furniture,Furniture_Sub_2
+P248,Product_48,Office Supplies,Office Supplies_Sub_5
+P249,Product_49,Office Supplies,Office Supplies_Sub_3
+P250,Product_50,Technology,Technology_Sub_1
+P251,Product_51,Technology,Technology_Sub_3
+P252,Product_52,Furniture,Furniture_Sub_4
+P253,Product_53,Office Supplies,Office Supplies_Sub_1
+P254,Product_54,Office Supplies,Office Supplies_Sub_2
+P255,Product_55,Furniture,Furniture_Sub_2
+P256,Product_56,Technology,Technology_Sub_4
+P257,Product_57,Office Supplies,Office Supplies_Sub_1
+P258,Product_58,Furniture,Furniture_Sub_1
+P259,Product_59,Technology,Technology_Sub_1
+P260,Product_60,Office Supplies,Office Supplies_Sub_5
+P261,Product_61,Furniture,Furniture_Sub_3
+P262,Product_62,Technology,Technology_Sub_2
+P263,Product_63,Furniture,Furniture_Sub_5
+P264,Product_64,Furniture,Furniture_Sub_1
+P265,Product_65,Technology,Technology_Sub_5
+P266,Product_66,Office Supplies,Office Supplies_Sub_1
+P267,Product_67,Technology,Technology_Sub_2
+P268,Product_68,Technology,Technology_Sub_1
+P269,Product_69,Office Supplies,Office Supplies_Sub_1
+P270,Product_70,Technology,Technology_Sub_2
+P271,Product_71,Technology,Technology_Sub_2
+P272,Product_72,Office Supplies,Office Supplies_Sub_1
+P273,Product_73,Technology,Technology_Sub_5
+P274,Product_74,Furniture,Furniture_Sub_2
+P275,Product_75,Office Supplies,Office Supplies_Sub_4
+P276,Product_76,Office Supplies,Office Supplies_Sub_4
+P277,Product_77,Furniture,Furniture_Sub_1
+P278,Product_78,Office Supplies,Office Supplies_Sub_5
+P279,Product_79,Technology,Technology_Sub_4
+P280,Product_80,Furniture,Furniture_Sub_5
+P281,Product_81,Furniture,Furniture_Sub_5
+P282,Product_82,Furniture,Furniture_Sub_4
+P283,Product_83,Office Supplies,Office Supplies_Sub_3
+P284,Product_84,Technology,Technology_Sub_3
+P285,Product_85,Technology,Technology_Sub_3
+P286,Product_86,Technology,Technology_Sub_4
+P287,Product_87,Furniture,Furniture_Sub_5
+P288,Product_88,Technology,Technology_Sub_2
+P289,Product_89,Office Supplies,Office Supplies_Sub_3
+P290,Product_90,Office Supplies,Office Supplies_Sub_3
+P291,Product_91,Technology,Technology_Sub_2
+P292,Product_92,Furniture,Furniture_Sub_1
+P293,Product_93,Technology,Technology_Sub_4
+P294,Product_94,Furniture,Furniture_Sub_1
+P295,Product_95,Office Supplies,Office Supplies_Sub_3
+P296,Product_96,Office Supplies,Office Supplies_Sub_3
+P297,Product_97,Furniture,Furniture_Sub_4
+P298,Product_98,Technology,Technology_Sub_1
+P299,Product_99,Office Supplies,Office Supplies_Sub_4
+P300,Product_100,Furniture,Furniture_Sub_4
+P301,Product_101,Office Supplies,Office Supplies_Sub_1
+P302,Product_102,Technology,Technology_Sub_1
+P303,Product_103,Furniture,Furniture_Sub_3
+P304,Product_104,Furniture,Furniture_Sub_4
+P305,Product_105,Furniture,Furniture_Sub_2
+P306,Product_106,Technology,Technology_Sub_2
+P307,Product_107,Technology,Technology_Sub_2
+P308,Product_108,Furniture,Furniture_Sub_3
+P309,Product_109,Technology,Technology_Sub_3
+P310,Product_110,Office Supplies,Office Supplies_Sub_5
+P311,Product_111,Technology,Technology_Sub_3
+P312,Product_112,Furniture,Furniture_Sub_3
+P313,Product_113,Furniture,Furniture_Sub_2
+P314,Product_114,Furniture,Furniture_Sub_1
+P315,Product_115,Furniture,Furniture_Sub_5
+P316,Product_116,Furniture,Furniture_Sub_3
+P317,Product_117,Furniture,Furniture_Sub_5
+P318,Product_118,Furniture,Furniture_Sub_2
+P319,Product_119,Furniture,Furniture_Sub_2
+P320,Product_120,Furniture,Furniture_Sub_5
+P321,Product_121,Office Supplies,Office Supplies_Sub_1
+P322,Product_122,Technology,Technology_Sub_2
+P323,Product_123,Office Supplies,Office Supplies_Sub_3
+P324,Product_124,Furniture,Furniture_Sub_4
+P325,Product_125,Technology,Technology_Sub_4
+P326,Product_126,Technology,Technology_Sub_2
+P327,Product_127,Technology,Technology_Sub_1
+P328,Product_128,Technology,Technology_Sub_4
+P329,Product_129,Technology,Technology_Sub_5
+P330,Product_130,Furniture,Furniture_Sub_1
+P331,Product_131,Office Supplies,Office Supplies_Sub_1
+P332,Product_132,Office Supplies,Office Supplies_Sub_2
+P333,Product_133,Technology,Technology_Sub_1
+P334,Product_134,Office Supplies,Office Supplies_Sub_4
+P335,Product_135,Technology,Technology_Sub_3
+P336,Product_136,Furniture,Furniture_Sub_2
+P337,Product_137,Office Supplies,Office Supplies_Sub_5
+P338,Product_138,Technology,Technology_Sub_2
+P339,Product_139,Technology,Technology_Sub_5
+P340,Product_140,Technology,Technology_Sub_1
+P341,Product_141,Furniture,Furniture_Sub_1
+P342,Product_142,Furniture,Furniture_Sub_5
+P343,Product_143,Office Supplies,Office Supplies_Sub_3
+P344,Product_144,Office Supplies,Office Supplies_Sub_2
+P345,Product_145,Technology,Technology_Sub_3
+P346,Product_146,Furniture,Furniture_Sub_2
+P347,Product_147,Technology,Technology_Sub_4
+P348,Product_148,Office Supplies,Office Supplies_Sub_1
+P349,Product_149,Technology,Technology_Sub_1
+P350,Product_150,Technology,Technology_Sub_2
+P351,Product_151,Office Supplies,Office Supplies_Sub_2
+P352,Product_152,Technology,Technology_Sub_4
+P353,Product_153,Office Supplies,Office Supplies_Sub_3
+P354,Product_154,Technology,Technology_Sub_4
+P355,Product_155,Furniture,Furniture_Sub_3
+P356,Product_156,Furniture,Furniture_Sub_1
+P357,Product_157,Furniture,Furniture_Sub_2
+P358,Product_158,Office Supplies,Office Supplies_Sub_1
+P359,Product_159,Technology,Technology_Sub_3
+P360,Product_160,Furniture,Furniture_Sub_2
+P361,Product_161,Technology,Technology_Sub_3
+P362,Product_162,Office Supplies,Office Supplies_Sub_1
+P363,Product_163,Furniture,Furniture_Sub_5
+P364,Product_164,Office Supplies,Office Supplies_Sub_1
+P365,Product_165,Technology,Technology_Sub_1
+P366,Product_166,Technology,Technology_Sub_1
+P367,Product_167,Technology,Technology_Sub_5
+P368,Product_168,Furniture,Furniture_Sub_5
+P369,Product_169,Office Supplies,Office Supplies_Sub_5
+P370,Product_170,Office Supplies,Office Supplies_Sub_4
+P371,Product_171,Technology,Technology_Sub_4
+P372,Product_172,Technology,Technology_Sub_4
+P373,Product_173,Furniture,Furniture_Sub_1
+P374,Product_174,Furniture,Furniture_Sub_2
+P375,Product_175,Technology,Technology_Sub_2
+P376,Product_176,Office Supplies,Office Supplies_Sub_5
+P377,Product_177,Furniture,Furniture_Sub_1
+P378,Product_178,Technology,Technology_Sub_4
+P379,Product_179,Technology,Technology_Sub_4
+P380,Product_180,Technology,Technology_Sub_1
+P381,Product_181,Technology,Technology_Sub_2
+P382,Product_182,Technology,Technology_Sub_2
+P383,Product_183,Technology,Technology_Sub_3
+P384,Product_184,Furniture,Furniture_Sub_2
+P385,Product_185,Furniture,Furniture_Sub_1
+P386,Product_186,Technology,Technology_Sub_4
+P387,Product_187,Office Supplies,Office Supplies_Sub_3
+P388,Product_188,Technology,Technology_Sub_1
+P389,Product_189,Technology,Technology_Sub_1
+P390,Product_190,Technology,Technology_Sub_4
+P391,Product_191,Furniture,Furniture_Sub_4
+P392,Product_192,Technology,Technology_Sub_1
+P393,Product_193,Office Supplies,Office Supplies_Sub_2
+P394,Product_194,Furniture,Furniture_Sub_3
+P395,Product_195,Furniture,Furniture_Sub_4
+P396,Product_196,Office Supplies,Office Supplies_Sub_3
+P397,Product_197,Office Supplies,Office Supplies_Sub_1
+P398,Product_198,Technology,Technology_Sub_2
+P399,Product_199,Office Supplies,Office Supplies_Sub_1
+P400,Product_200,Office Supplies,Office Supplies_Sub_4
+P401,Product_201,Furniture,Furniture_Sub_2
+P402,Product_202,Technology,Technology_Sub_1
+P403,Product_203,Technology,Technology_Sub_1
+P404,Product_204,Office Supplies,Office Supplies_Sub_5
+P405,Product_205,Furniture,Furniture_Sub_2
+P406,Product_206,Technology,Technology_Sub_1
+P407,Product_207,Office Supplies,Office Supplies_Sub_5
+P408,Product_208,Technology,Technology_Sub_1
+P409,Product_209,Office Supplies,Office Supplies_Sub_1
+P410,Product_210,Furniture,Furniture_Sub_4
+P411,Product_211,Technology,Technology_Sub_1
+P412,Product_212,Technology,Technology_Sub_4
+P413,Product_213,Technology,Technology_Sub_1
+P414,Product_214,Furniture,Furniture_Sub_3
+P415,Product_215,Furniture,Furniture_Sub_5
+P416,Product_216,Furniture,Furniture_Sub_4
+P417,Product_217,Office Supplies,Office Supplies_Sub_2
+P418,Product_218,Furniture,Furniture_Sub_2
+P419,Product_219,Technology,Technology_Sub_4
+P420,Product_220,Furniture,Furniture_Sub_5
+P421,Product_221,Technology,Technology_Sub_5
+P422,Product_222,Technology,Technology_Sub_1
+P423,Product_223,Furniture,Furniture_Sub_4
+P424,Product_224,Technology,Technology_Sub_3
+P425,Product_225,Office Supplies,Office Supplies_Sub_2
+P426,Product_226,Technology,Technology_Sub_2
+P427,Product_227,Technology,Technology_Sub_5
+P428,Product_228,Furniture,Furniture_Sub_1
+P429,Product_229,Office Supplies,Office Supplies_Sub_4
+P430,Product_230,Technology,Technology_Sub_3
+P431,Product_231,Office Supplies,Office Supplies_Sub_4
+P432,Product_232,Office Supplies,Office Supplies_Sub_3
+P433,Product_233,Furniture,Furniture_Sub_4
+P434,Product_234,Furniture,Furniture_Sub_4
+P435,Product_235,Technology,Technology_Sub_5
+P436,Product_236,Furniture,Furniture_Sub_2
+P437,Product_237,Office Supplies,Office Supplies_Sub_2
+P438,Product_238,Technology,Technology_Sub_3
+P439,Product_239,Office Supplies,Office Supplies_Sub_5
+P440,Product_240,Office Supplies,Office Supplies_Sub_5
+P441,Product_241,Office Supplies,Office Supplies_Sub_1
+P442,Product_242,Technology,Technology_Sub_2
+P443,Product_243,Technology,Technology_Sub_1
+P444,Product_244,Furniture,Furniture_Sub_3
+P445,Product_245,Technology,Technology_Sub_5
+P446,Product_246,Technology,Technology_Sub_1
+P447,Product_247,Office Supplies,Office Supplies_Sub_1
+P448,Product_248,Technology,Technology_Sub_5
+P449,Product_249,Furniture,Furniture_Sub_2
+P450,Product_250,Technology,Technology_Sub_3
+P451,Product_251,Furniture,Furniture_Sub_4
+P452,Product_252,Technology,Technology_Sub_1
+P453,Product_253,Technology,Technology_Sub_3
+P454,Product_254,Technology,Technology_Sub_1
+P455,Product_255,Office Supplies,Office Supplies_Sub_2
+P456,Product_256,Office Supplies,Office Supplies_Sub_5
+P457,Product_257,Furniture,Furniture_Sub_4
+P458,Product_258,Technology,Technology_Sub_3
+P459,Product_259,Technology,Technology_Sub_1
+P460,Product_260,Technology,Technology_Sub_3
+P461,Product_261,Furniture,Furniture_Sub_1
+P462,Product_262,Furniture,Furniture_Sub_4
+P463,Product_263,Office Supplies,Office Supplies_Sub_1
+P464,Product_264,Furniture,Furniture_Sub_2
+P465,Product_265,Office Supplies,Office Supplies_Sub_5
+P466,Product_266,Technology,Technology_Sub_1
+P467,Product_267,Furniture,Furniture_Sub_4
+P468,Product_268,Office Supplies,Office Supplies_Sub_3
+P469,Product_269,Technology,Technology_Sub_1
+P470,Product_270,Furniture,Furniture_Sub_3
+P471,Product_271,Furniture,Furniture_Sub_2
+P472,Product_272,Office Supplies,Office Supplies_Sub_1
+P473,Product_273,Technology,Technology_Sub_5
+P474,Product_274,Furniture,Furniture_Sub_3
+P475,Product_275,Office Supplies,Office Supplies_Sub_4
+P476,Product_276,Furniture,Furniture_Sub_1
+P477,Product_277,Office Supplies,Office Supplies_Sub_5
+P478,Product_278,Office Supplies,Office Supplies_Sub_4
+P479,Product_279,Office Supplies,Office Supplies_Sub_3
+P480,Product_280,Furniture,Furniture_Sub_5
+P481,Product_281,Furniture,Furniture_Sub_4
+P482,Product_282,Furniture,Furniture_Sub_4
+P483,Product_283,Office Supplies,Office Supplies_Sub_3
+P484,Product_284,Technology,Technology_Sub_1
+P485,Product_285,Furniture,Furniture_Sub_4
+P486,Product_286,Technology,Technology_Sub_3
+P487,Product_287,Technology,Technology_Sub_1
+P488,Product_288,Technology,Technology_Sub_4
+P489,Product_289,Office Supplies,Office Supplies_Sub_2
+P490,Product_290,Technology,Technology_Sub_3
+P491,Product_291,Furniture,Furniture_Sub_2
+P492,Product_292,Furniture,Furniture_Sub_3
+P493,Product_293,Technology,Technology_Sub_3
+P494,Product_294,Technology,Technology_Sub_1
+P495,Product_295,Office Supplies,Office Supplies_Sub_1
+P496,Product_296,Technology,Technology_Sub_4
+P497,Product_297,Office Supplies,Office Supplies_Sub_1
+P498,Product_298,Office Supplies,Office Supplies_Sub_1
+P499,Product_299,Furniture,Furniture_Sub_4

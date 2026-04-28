@@ -1,0 +1,1201 @@
+customer_id,customer_name,segment,signup_date
+C1000,Customer_0,Consumer,2022-06-16
+C1001,Customer_1,Consumer,2022-09-10
+C1002,Customer_2,Corporate,2022-01-13
+C1003,Customer_3,Consumer,2022-05-13
+C1004,Customer_4,Consumer,2021-12-17
+C1005,Customer_5,Consumer,2022-01-25
+C1006,Customer_6,Consumer,2024-02-04
+C1007,Customer_7,Consumer,2022-10-11
+C1008,Customer_8,Consumer,2022-03-16
+C1009,Customer_9,Home Office,2022-09-20
+C1010,Customer_10,Home Office,2021-09-09
+C1011,Customer_11,Consumer,2021-05-20
+C1012,Customer_12,Consumer,2020-11-17
+C1013,Customer_13,Corporate,2021-01-02
+C1014,Customer_14,Home Office,2020-11-22
+C1015,Customer_15,Corporate,2023-12-18
+C1016,Customer_16,Consumer,2020-12-17
+C1017,Customer_17,Consumer,2020-02-29
+C1018,Customer_18,Corporate,2020-05-20
+C1019,Customer_19,Corporate,2022-09-22
+C1020,Customer_20,Corporate,2020-12-05
+C1021,Customer_21,Home Office,2021-06-29
+C1022,Customer_22,Home Office,2021-04-08
+C1023,Customer_23,Home Office,2021-07-24
+C1024,Customer_24,Corporate,2023-07-26
+C1025,Customer_25,Consumer,2023-12-09
+C1026,Customer_26,Consumer,2021-03-07
+C1027,Customer_27,Corporate,2023-07-06
+C1028,Customer_28,Corporate,2023-02-19
+C1029,Customer_29,Corporate,2023-04-11
+C1030,Customer_30,Home Office,2023-08-24
+C1031,Customer_31,Corporate,2023-02-21
+C1032,Customer_32,Corporate,2021-10-12
+C1033,Customer_33,Consumer,2022-10-10
+C1034,Customer_34,Corporate,2022-03-03
+C1035,Customer_35,Corporate,2020-10-11
+C1036,Customer_36,Home Office,2021-03-07
+C1037,Customer_37,Corporate,2023-02-27
+C1038,Customer_38,Consumer,2023-11-18
+C1039,Customer_39,Corporate,2021-08-18
+C1040,Customer_40,Consumer,2023-01-09
+C1041,Customer_41,Corporate,2022-08-27
+C1042,Customer_42,Corporate,2023-03-25
+C1043,Customer_43,Consumer,2020-04-10
+C1044,Customer_44,Consumer,2023-07-25
+C1045,Customer_45,Consumer,2023-03-13
+C1046,Customer_46,Corporate,2020-09-30
+C1047,Customer_47,Home Office,2020-01-23
+C1048,Customer_48,Home Office,2023-10-11
+C1049,Customer_49,Corporate,2021-07-19
+C1050,Customer_50,Corporate,2022-02-21
+C1051,Customer_51,Home Office,2024-01-14
+C1052,Customer_52,Corporate,2020-12-02
+C1053,Customer_53,Corporate,2022-12-27
+C1054,Customer_54,Corporate,2023-05-15
+C1055,Customer_55,Corporate,2020-10-02
+C1056,Customer_56,Consumer,2023-12-18
+C1057,Customer_57,Consumer,2022-05-05
+C1058,Customer_58,Home Office,2022-03-30
+C1059,Customer_59,Consumer,2022-04-18
+C1060,Customer_60,Home Office,2023-04-13
+C1061,Customer_61,Consumer,2020-08-12
+C1062,Customer_62,Corporate,2023-04-12
+C1063,Customer_63,Home Office,2022-10-20
+C1064,Customer_64,Consumer,2022-02-19
+C1065,Customer_65,Home Office,2022-07-01
+C1066,Customer_66,Corporate,2020-01-11
+C1067,Customer_67,Corporate,2021-11-04
+C1068,Customer_68,Corporate,2020-08-24
+C1069,Customer_69,Consumer,2021-04-17
+C1070,Customer_70,Corporate,2022-11-27
+C1071,Customer_71,Home Office,2020-10-22
+C1072,Customer_72,Home Office,2023-11-25
+C1073,Customer_73,Corporate,2020-06-06
+C1074,Customer_74,Corporate,2023-01-05
+C1075,Customer_75,Corporate,2022-05-27
+C1076,Customer_76,Corporate,2021-01-17
+C1077,Customer_77,Home Office,2023-06-11
+C1078,Customer_78,Consumer,2022-04-22
+C1079,Customer_79,Home Office,2021-11-03
+C1080,Customer_80,Corporate,2021-06-12
+C1081,Customer_81,Corporate,2023-01-24
+C1082,Customer_82,Corporate,2022-05-21
+C1083,Customer_83,Home Office,2023-11-02
+C1084,Customer_84,Corporate,2023-07-21
+C1085,Customer_85,Home Office,2023-03-02
+C1086,Customer_86,Consumer,2023-12-24
+C1087,Customer_87,Home Office,2021-09-29
+C1088,Customer_88,Corporate,2022-04-10
+C1089,Customer_89,Home Office,2020-04-22
+C1090,Customer_90,Home Office,2023-06-21
+C1091,Customer_91,Corporate,2023-05-19
+C1092,Customer_92,Corporate,2020-06-26
+C1093,Customer_93,Corporate,2021-12-16
+C1094,Customer_94,Home Office,2020-05-09
+C1095,Customer_95,Home Office,2023-10-02
+C1096,Customer_96,Consumer,2020-11-25
+C1097,Customer_97,Consumer,2020-02-18
+C1098,Customer_98,Consumer,2023-12-28
+C1099,Customer_99,Consumer,2020-10-15
+C1100,Customer_100,Consumer,2023-10-03
+C1101,Customer_101,Corporate,2023-02-23
+C1102,Customer_102,Consumer,2024-02-03
+C1103,Customer_103,Consumer,2021-11-23
+C1104,Customer_104,Home Office,2020-09-08
+C1105,Customer_105,Home Office,2020-12-16
+C1106,Customer_106,Home Office,2022-06-16
+C1107,Customer_107,Home Office,2022-05-28
+C1108,Customer_108,Home Office,2023-02-17
+C1109,Customer_109,Corporate,2022-06-01
+C1110,Customer_110,Home Office,2020-01-14
+C1111,Customer_111,Home Office,2023-09-26
+C1112,Customer_112,Home Office,2023-11-24
+C1113,Customer_113,Consumer,2022-11-01
+C1114,Customer_114,Home Office,2022-08-19
+C1115,Customer_115,Corporate,2020-09-26
+C1116,Customer_116,Corporate,2021-07-13
+C1117,Customer_117,Corporate,2023-06-05
+C1118,Customer_118,Corporate,2022-12-18
+C1119,Customer_119,Corporate,2022-08-07
+C1120,Customer_120,Home Office,2023-12-03
+C1121,Customer_121,Consumer,2022-08-07
+C1122,Customer_122,Corporate,2023-11-15
+C1123,Customer_123,Home Office,2022-03-11
+C1124,Customer_124,Home Office,2022-12-12
+C1125,Customer_125,Home Office,2023-11-20
+C1126,Customer_126,Corporate,2021-10-12
+C1127,Customer_127,Consumer,2022-04-06
+C1128,Customer_128,Consumer,2022-10-26
+C1129,Customer_129,Consumer,2021-12-26
+C1130,Customer_130,Consumer,2023-04-03
+C1131,Customer_131,Corporate,2022-11-15
+C1132,Customer_132,Consumer,2020-05-04
+C1133,Customer_133,Corporate,2021-05-16
+C1134,Customer_134,Home Office,2021-05-25
+C1135,Customer_135,Corporate,2020-04-22
+C1136,Customer_136,Consumer,2021-05-14
+C1137,Customer_137,Home Office,2020-11-12
+C1138,Customer_138,Consumer,2023-06-08
+C1139,Customer_139,Corporate,2022-07-26
+C1140,Customer_140,Consumer,2023-09-09
+C1141,Customer_141,Home Office,2023-01-15
+C1142,Customer_142,Corporate,2020-05-16
+C1143,Customer_143,Consumer,2021-01-11
+C1144,Customer_144,Home Office,2023-08-24
+C1145,Customer_145,Corporate,2020-12-08
+C1146,Customer_146,Home Office,2023-03-14
+C1147,Customer_147,Corporate,2021-02-19
+C1148,Customer_148,Corporate,2020-08-18
+C1149,Customer_149,Home Office,2020-11-18
+C1150,Customer_150,Consumer,2020-06-21
+C1151,Customer_151,Corporate,2023-07-10
+C1152,Customer_152,Home Office,2023-03-18
+C1153,Customer_153,Consumer,2021-06-12
+C1154,Customer_154,Consumer,2022-11-28
+C1155,Customer_155,Home Office,2021-02-12
+C1156,Customer_156,Corporate,2021-05-31
+C1157,Customer_157,Consumer,2020-07-12
+C1158,Customer_158,Corporate,2021-07-29
+C1159,Customer_159,Home Office,2023-11-15
+C1160,Customer_160,Corporate,2022-11-16
+C1161,Customer_161,Corporate,2020-01-17
+C1162,Customer_162,Consumer,2020-11-04
+C1163,Customer_163,Consumer,2022-01-09
+C1164,Customer_164,Home Office,2022-06-27
+C1165,Customer_165,Home Office,2022-02-09
+C1166,Customer_166,Consumer,2020-09-19
+C1167,Customer_167,Home Office,2022-11-12
+C1168,Customer_168,Consumer,2023-08-14
+C1169,Customer_169,Corporate,2021-12-07
+C1170,Customer_170,Corporate,2021-06-18
+C1171,Customer_171,Consumer,2021-03-22
+C1172,Customer_172,Corporate,2023-10-14
+C1173,Customer_173,Consumer,2022-08-14
+C1174,Customer_174,Consumer,2023-05-07
+C1175,Customer_175,Corporate,2022-05-28
+C1176,Customer_176,Corporate,2020-12-31
+C1177,Customer_177,Corporate,2020-02-17
+C1178,Customer_178,Consumer,2023-04-09
+C1179,Customer_179,Consumer,2023-01-04
+C1180,Customer_180,Home Office,2023-08-09
+C1181,Customer_181,Corporate,2023-10-09
+C1182,Customer_182,Home Office,2020-07-30
+C1183,Customer_183,Consumer,2023-04-27
+C1184,Customer_184,Consumer,2023-12-24
+C1185,Customer_185,Consumer,2022-12-22
+C1186,Customer_186,Home Office,2020-04-28
+C1187,Customer_187,Corporate,2021-03-11
+C1188,Customer_188,Home Office,2024-01-17
+C1189,Customer_189,Home Office,2021-05-17
+C1190,Customer_190,Corporate,2023-05-30
+C1191,Customer_191,Home Office,2023-03-03
+C1192,Customer_192,Corporate,2021-07-27
+C1193,Customer_193,Home Office,2023-06-27
+C1194,Customer_194,Corporate,2021-06-03
+C1195,Customer_195,Home Office,2023-05-02
+C1196,Customer_196,Consumer,2020-01-31
+C1197,Customer_197,Corporate,2022-04-09
+C1198,Customer_198,Corporate,2020-01-27
+C1199,Customer_199,Home Office,2022-08-10
+C1200,Customer_200,Corporate,2022-11-15
+C1201,Customer_201,Corporate,2023-03-25
+C1202,Customer_202,Consumer,2021-05-21
+C1203,Customer_203,Corporate,2021-07-04
+C1204,Customer_204,Home Office,2022-12-08
+C1205,Customer_205,Home Office,2020-03-25
+C1206,Customer_206,Home Office,2021-11-13
+C1207,Customer_207,Home Office,2022-03-03
+C1208,Customer_208,Consumer,2022-12-16
+C1209,Customer_209,Home Office,2022-05-08
+C1210,Customer_210,Consumer,2022-11-01
+C1211,Customer_211,Corporate,2023-11-15
+C1212,Customer_212,Corporate,2021-09-29
+C1213,Customer_213,Corporate,2022-09-29
+C1214,Customer_214,Consumer,2021-03-12
+C1215,Customer_215,Consumer,2022-08-22
+C1216,Customer_216,Consumer,2023-05-31
+C1217,Customer_217,Home Office,2022-01-28
+C1218,Customer_218,Consumer,2022-12-30
+C1219,Customer_219,Corporate,2023-06-27
+C1220,Customer_220,Consumer,2022-10-16
+C1221,Customer_221,Consumer,2021-09-27
+C1222,Customer_222,Consumer,2020-09-21
+C1223,Customer_223,Consumer,2022-08-19
+C1224,Customer_224,Corporate,2024-01-01
+C1225,Customer_225,Corporate,2020-02-08
+C1226,Customer_226,Home Office,2022-02-21
+C1227,Customer_227,Consumer,2020-06-04
+C1228,Customer_228,Consumer,2020-11-20
+C1229,Customer_229,Consumer,2021-07-30
+C1230,Customer_230,Corporate,2023-01-25
+C1231,Customer_231,Corporate,2022-07-03
+C1232,Customer_232,Home Office,2020-11-02
+C1233,Customer_233,Consumer,2022-12-26
+C1234,Customer_234,Home Office,2020-09-22
+C1235,Customer_235,Consumer,2022-07-31
+C1236,Customer_236,Home Office,2023-09-26
+C1237,Customer_237,Home Office,2022-03-16
+C1238,Customer_238,Consumer,2021-07-18
+C1239,Customer_239,Consumer,2023-10-03
+C1240,Customer_240,Consumer,2021-11-09
+C1241,Customer_241,Consumer,2023-05-24
+C1242,Customer_242,Home Office,2024-01-24
+C1243,Customer_243,Consumer,2020-01-29
+C1244,Customer_244,Corporate,2023-08-23
+C1245,Customer_245,Corporate,2023-09-06
+C1246,Customer_246,Corporate,2023-06-02
+C1247,Customer_247,Home Office,2021-11-27
+C1248,Customer_248,Home Office,2024-01-27
+C1249,Customer_249,Consumer,2020-11-01
+C1250,Customer_250,Corporate,2022-05-14
+C1251,Customer_251,Consumer,2022-10-21
+C1252,Customer_252,Corporate,2020-12-26
+C1253,Customer_253,Corporate,2020-10-05
+C1254,Customer_254,Consumer,2021-10-17
+C1255,Customer_255,Corporate,2022-03-29
+C1256,Customer_256,Consumer,2023-09-10
+C1257,Customer_257,Home Office,2023-06-10
+C1258,Customer_258,Consumer,2024-01-09
+C1259,Customer_259,Home Office,2023-02-09
+C1260,Customer_260,Home Office,2023-10-06
+C1261,Customer_261,Corporate,2022-01-10
+C1262,Customer_262,Home Office,2022-07-26
+C1263,Customer_263,Consumer,2022-01-26
+C1264,Customer_264,Consumer,2021-05-10
+C1265,Customer_265,Corporate,2020-10-29
+C1266,Customer_266,Home Office,2020-10-31
+C1267,Customer_267,Consumer,2023-11-23
+C1268,Customer_268,Home Office,2022-06-26
+C1269,Customer_269,Home Office,2020-05-30
+C1270,Customer_270,Consumer,2023-12-25
+C1271,Customer_271,Consumer,2021-12-26
+C1272,Customer_272,Corporate,2022-09-03
+C1273,Customer_273,Corporate,2023-03-16
+C1274,Customer_274,Home Office,2022-12-03
+C1275,Customer_275,Consumer,2022-02-14
+C1276,Customer_276,Home Office,2021-04-23
+C1277,Customer_277,Consumer,2023-06-22
+C1278,Customer_278,Corporate,2020-09-22
+C1279,Customer_279,Consumer,2023-01-21
+C1280,Customer_280,Home Office,2020-03-22
+C1281,Customer_281,Home Office,2022-02-13
+C1282,Customer_282,Consumer,2022-04-07
+C1283,Customer_283,Corporate,2022-07-01
+C1284,Customer_284,Home Office,2021-11-30
+C1285,Customer_285,Consumer,2020-09-25
+C1286,Customer_286,Home Office,2022-01-16
+C1287,Customer_287,Consumer,2022-05-31
+C1288,Customer_288,Corporate,2021-07-30
+C1289,Customer_289,Consumer,2020-06-29
+C1290,Customer_290,Corporate,2022-05-27
+C1291,Customer_291,Consumer,2024-01-15
+C1292,Customer_292,Consumer,2024-01-27
+C1293,Customer_293,Home Office,2022-09-21
+C1294,Customer_294,Corporate,2023-03-12
+C1295,Customer_295,Corporate,2020-07-26
+C1296,Customer_296,Consumer,2020-02-07
+C1297,Customer_297,Corporate,2022-03-08
+C1298,Customer_298,Home Office,2020-08-07
+C1299,Customer_299,Corporate,2022-02-12
+C1300,Customer_300,Consumer,2021-05-04
+C1301,Customer_301,Home Office,2021-12-24
+C1302,Customer_302,Consumer,2021-02-23
+C1303,Customer_303,Home Office,2022-01-16
+C1304,Customer_304,Corporate,2022-02-12
+C1305,Customer_305,Consumer,2021-08-01
+C1306,Customer_306,Consumer,2021-11-12
+C1307,Customer_307,Corporate,2021-05-07
+C1308,Customer_308,Corporate,2020-06-22
+C1309,Customer_309,Home Office,2020-11-03
+C1310,Customer_310,Home Office,2023-05-10
+C1311,Customer_311,Consumer,2022-09-03
+C1312,Customer_312,Consumer,2023-07-31
+C1313,Customer_313,Corporate,2021-04-24
+C1314,Customer_314,Corporate,2023-02-21
+C1315,Customer_315,Consumer,2020-11-20
+C1316,Customer_316,Home Office,2023-02-21
+C1317,Customer_317,Home Office,2020-01-12
+C1318,Customer_318,Home Office,2021-03-11
+C1319,Customer_319,Corporate,2020-02-23
+C1320,Customer_320,Home Office,2023-07-04
+C1321,Customer_321,Home Office,2023-05-21
+C1322,Customer_322,Consumer,2022-11-03
+C1323,Customer_323,Consumer,2024-01-30
+C1324,Customer_324,Consumer,2023-06-02
+C1325,Customer_325,Corporate,2020-05-11
+C1326,Customer_326,Home Office,2023-07-27
+C1327,Customer_327,Corporate,2022-06-12
+C1328,Customer_328,Home Office,2021-07-25
+C1329,Customer_329,Corporate,2021-04-30
+C1330,Customer_330,Consumer,2020-06-22
+C1331,Customer_331,Home Office,2022-10-03
+C1332,Customer_332,Corporate,2022-03-13
+C1333,Customer_333,Corporate,2023-11-29
+C1334,Customer_334,Home Office,2023-08-11
+C1335,Customer_335,Home Office,2021-03-10
+C1336,Customer_336,Home Office,2024-02-05
+C1337,Customer_337,Corporate,2023-05-10
+C1338,Customer_338,Consumer,2020-06-11
+C1339,Customer_339,Consumer,2020-09-08
+C1340,Customer_340,Home Office,2020-11-02
+C1341,Customer_341,Consumer,2021-03-22
+C1342,Customer_342,Home Office,2023-05-31
+C1343,Customer_343,Home Office,2021-07-16
+C1344,Customer_344,Corporate,2022-06-17
+C1345,Customer_345,Corporate,2023-11-01
+C1346,Customer_346,Home Office,2023-10-30
+C1347,Customer_347,Home Office,2021-12-22
+C1348,Customer_348,Home Office,2023-03-17
+C1349,Customer_349,Consumer,2021-11-13
+C1350,Customer_350,Home Office,2020-07-29
+C1351,Customer_351,Corporate,2023-11-07
+C1352,Customer_352,Corporate,2021-09-19
+C1353,Customer_353,Home Office,2020-03-31
+C1354,Customer_354,Home Office,2021-11-21
+C1355,Customer_355,Corporate,2020-09-25
+C1356,Customer_356,Home Office,2020-05-19
+C1357,Customer_357,Corporate,2022-02-25
+C1358,Customer_358,Home Office,2023-10-16
+C1359,Customer_359,Corporate,2023-03-22
+C1360,Customer_360,Corporate,2022-12-06
+C1361,Customer_361,Home Office,2021-08-05
+C1362,Customer_362,Corporate,2023-09-14
+C1363,Customer_363,Home Office,2022-09-01
+C1364,Customer_364,Consumer,2022-06-02
+C1365,Customer_365,Consumer,2021-03-08
+C1366,Customer_366,Consumer,2020-08-14
+C1367,Customer_367,Consumer,2021-12-13
+C1368,Customer_368,Consumer,2021-05-12
+C1369,Customer_369,Home Office,2020-05-23
+C1370,Customer_370,Home Office,2021-07-29
+C1371,Customer_371,Corporate,2020-12-12
+C1372,Customer_372,Home Office,2020-06-26
+C1373,Customer_373,Corporate,2022-05-12
+C1374,Customer_374,Corporate,2021-10-06
+C1375,Customer_375,Home Office,2022-02-18
+C1376,Customer_376,Consumer,2022-02-19
+C1377,Customer_377,Consumer,2023-12-11
+C1378,Customer_378,Consumer,2023-05-23
+C1379,Customer_379,Home Office,2020-11-07
+C1380,Customer_380,Corporate,2022-11-12
+C1381,Customer_381,Home Office,2021-11-25
+C1382,Customer_382,Consumer,2023-07-19
+C1383,Customer_383,Consumer,2020-11-23
+C1384,Customer_384,Consumer,2020-08-26
+C1385,Customer_385,Home Office,2023-09-03
+C1386,Customer_386,Home Office,2022-09-19
+C1387,Customer_387,Corporate,2023-04-24
+C1388,Customer_388,Corporate,2022-10-09
+C1389,Customer_389,Home Office,2020-12-12
+C1390,Customer_390,Consumer,2023-06-01
+C1391,Customer_391,Home Office,2023-11-29
+C1392,Customer_392,Consumer,2022-05-07
+C1393,Customer_393,Home Office,2022-05-10
+C1394,Customer_394,Corporate,2020-03-14
+C1395,Customer_395,Corporate,2023-06-23
+C1396,Customer_396,Corporate,2023-10-04
+C1397,Customer_397,Consumer,2022-03-29
+C1398,Customer_398,Home Office,2023-11-30
+C1399,Customer_399,Corporate,2023-09-22
+C1400,Customer_400,Home Office,2023-08-22
+C1401,Customer_401,Home Office,2022-02-12
+C1402,Customer_402,Consumer,2021-10-08
+C1403,Customer_403,Corporate,2022-08-22
+C1404,Customer_404,Corporate,2020-03-28
+C1405,Customer_405,Home Office,2022-06-10
+C1406,Customer_406,Corporate,2021-04-03
+C1407,Customer_407,Corporate,2023-12-22
+C1408,Customer_408,Corporate,2022-08-31
+C1409,Customer_409,Consumer,2023-08-08
+C1410,Customer_410,Corporate,2020-01-08
+C1411,Customer_411,Home Office,2023-08-07
+C1412,Customer_412,Consumer,2021-04-30
+C1413,Customer_413,Home Office,2021-11-03
+C1414,Customer_414,Corporate,2020-10-23
+C1415,Customer_415,Corporate,2021-10-13
+C1416,Customer_416,Corporate,2022-04-25
+C1417,Customer_417,Corporate,2024-01-22
+C1418,Customer_418,Consumer,2023-02-11
+C1419,Customer_419,Corporate,2020-01-02
+C1420,Customer_420,Home Office,2022-05-31
+C1421,Customer_421,Corporate,2022-10-27
+C1422,Customer_422,Corporate,2020-10-26
+C1423,Customer_423,Corporate,2022-10-24
+C1424,Customer_424,Corporate,2021-01-26
+C1425,Customer_425,Home Office,2023-07-05
+C1426,Customer_426,Corporate,2021-07-24
+C1427,Customer_427,Home Office,2024-02-07
+C1428,Customer_428,Home Office,2021-06-22
+C1429,Customer_429,Home Office,2021-08-12
+C1430,Customer_430,Consumer,2022-10-03
+C1431,Customer_431,Corporate,2020-03-27
+C1432,Customer_432,Home Office,2023-03-18
+C1433,Customer_433,Corporate,2020-12-15
+C1434,Customer_434,Home Office,2023-07-11
+C1435,Customer_435,Consumer,2022-04-09
+C1436,Customer_436,Consumer,2021-09-06
+C1437,Customer_437,Consumer,2021-06-10
+C1438,Customer_438,Home Office,2020-04-07
+C1439,Customer_439,Home Office,2020-12-22
+C1440,Customer_440,Corporate,2023-10-17
+C1441,Customer_441,Home Office,2022-01-27
+C1442,Customer_442,Corporate,2022-03-17
+C1443,Customer_443,Consumer,2023-03-19
+C1444,Customer_444,Home Office,2020-08-18
+C1445,Customer_445,Home Office,2021-03-29
+C1446,Customer_446,Home Office,2023-12-23
+C1447,Customer_447,Corporate,2022-03-10
+C1448,Customer_448,Consumer,2020-06-07
+C1449,Customer_449,Corporate,2021-01-14
+C1450,Customer_450,Home Office,2022-06-05
+C1451,Customer_451,Corporate,2022-06-23
+C1452,Customer_452,Consumer,2022-11-26
+C1453,Customer_453,Home Office,2023-12-21
+C1454,Customer_454,Corporate,2023-12-10
+C1455,Customer_455,Corporate,2022-09-27
+C1456,Customer_456,Consumer,2023-01-05
+C1457,Customer_457,Consumer,2021-10-10
+C1458,Customer_458,Home Office,2023-07-22
+C1459,Customer_459,Consumer,2020-02-01
+C1460,Customer_460,Corporate,2023-11-01
+C1461,Customer_461,Consumer,2020-04-22
+C1462,Customer_462,Home Office,2021-08-29
+C1463,Customer_463,Home Office,2020-02-09
+C1464,Customer_464,Consumer,2021-07-23
+C1465,Customer_465,Consumer,2021-04-18
+C1466,Customer_466,Consumer,2023-03-27
+C1467,Customer_467,Consumer,2022-10-13
+C1468,Customer_468,Consumer,2022-08-12
+C1469,Customer_469,Corporate,2024-01-05
+C1470,Customer_470,Corporate,2022-02-01
+C1471,Customer_471,Consumer,2021-01-12
+C1472,Customer_472,Consumer,2023-06-10
+C1473,Customer_473,Consumer,2023-12-22
+C1474,Customer_474,Consumer,2023-01-17
+C1475,Customer_475,Consumer,2022-01-01
+C1476,Customer_476,Consumer,2020-11-27
+C1477,Customer_477,Corporate,2021-07-31
+C1478,Customer_478,Corporate,2021-08-01
+C1479,Customer_479,Corporate,2023-08-11
+C1480,Customer_480,Home Office,2021-12-25
+C1481,Customer_481,Corporate,2020-07-04
+C1482,Customer_482,Consumer,2023-02-16
+C1483,Customer_483,Corporate,2023-09-21
+C1484,Customer_484,Corporate,2020-05-17
+C1485,Customer_485,Consumer,2021-12-03
+C1486,Customer_486,Consumer,2023-12-03
+C1487,Customer_487,Corporate,2022-05-25
+C1488,Customer_488,Consumer,2022-03-16
+C1489,Customer_489,Home Office,2023-01-06
+C1490,Customer_490,Corporate,2023-05-08
+C1491,Customer_491,Corporate,2021-02-25
+C1492,Customer_492,Home Office,2023-01-07
+C1493,Customer_493,Corporate,2021-08-28
+C1494,Customer_494,Corporate,2020-03-23
+C1495,Customer_495,Home Office,2020-04-05
+C1496,Customer_496,Home Office,2022-06-30
+C1497,Customer_497,Consumer,2020-10-03
+C1498,Customer_498,Corporate,2022-08-13
+C1499,Customer_499,Home Office,2021-10-12
+C1500,Customer_500,Home Office,2023-02-03
+C1501,Customer_501,Corporate,2020-12-30
+C1502,Customer_502,Home Office,2020-12-23
+C1503,Customer_503,Consumer,2021-01-22
+C1504,Customer_504,Home Office,2021-07-23
+C1505,Customer_505,Home Office,2021-11-11
+C1506,Customer_506,Corporate,2021-04-15
+C1507,Customer_507,Home Office,2020-08-29
+C1508,Customer_508,Consumer,2022-08-19
+C1509,Customer_509,Consumer,2020-05-29
+C1510,Customer_510,Consumer,2024-01-01
+C1511,Customer_511,Consumer,2021-05-19
+C1512,Customer_512,Corporate,2020-01-12
+C1513,Customer_513,Home Office,2023-03-09
+C1514,Customer_514,Corporate,2023-02-12
+C1515,Customer_515,Home Office,2020-09-01
+C1516,Customer_516,Home Office,2021-09-09
+C1517,Customer_517,Home Office,2020-05-01
+C1518,Customer_518,Home Office,2021-06-09
+C1519,Customer_519,Home Office,2023-12-02
+C1520,Customer_520,Consumer,2021-07-25
+C1521,Customer_521,Corporate,2021-11-22
+C1522,Customer_522,Consumer,2021-06-10
+C1523,Customer_523,Corporate,2022-05-19
+C1524,Customer_524,Home Office,2022-03-24
+C1525,Customer_525,Home Office,2022-11-08
+C1526,Customer_526,Consumer,2020-10-25
+C1527,Customer_527,Consumer,2023-07-31
+C1528,Customer_528,Consumer,2021-01-22
+C1529,Customer_529,Consumer,2020-07-28
+C1530,Customer_530,Home Office,2021-04-02
+C1531,Customer_531,Consumer,2022-01-22
+C1532,Customer_532,Consumer,2022-11-21
+C1533,Customer_533,Consumer,2022-01-07
+C1534,Customer_534,Corporate,2020-05-06
+C1535,Customer_535,Corporate,2021-07-23
+C1536,Customer_536,Corporate,2022-06-26
+C1537,Customer_537,Home Office,2020-09-14
+C1538,Customer_538,Home Office,2020-05-09
+C1539,Customer_539,Corporate,2021-12-28
+C1540,Customer_540,Consumer,2021-10-05
+C1541,Customer_541,Corporate,2020-01-08
+C1542,Customer_542,Corporate,2021-02-16
+C1543,Customer_543,Corporate,2021-11-27
+C1544,Customer_544,Home Office,2021-06-24
+C1545,Customer_545,Home Office,2021-09-21
+C1546,Customer_546,Home Office,2020-11-02
+C1547,Customer_547,Consumer,2021-11-13
+C1548,Customer_548,Home Office,2020-01-06
+C1549,Customer_549,Home Office,2021-08-28
+C1550,Customer_550,Consumer,2021-05-24
+C1551,Customer_551,Consumer,2023-09-13
+C1552,Customer_552,Home Office,2022-06-25
+C1553,Customer_553,Home Office,2022-10-29
+C1554,Customer_554,Consumer,2022-11-09
+C1555,Customer_555,Home Office,2021-09-23
+C1556,Customer_556,Corporate,2022-03-05
+C1557,Customer_557,Consumer,2022-05-06
+C1558,Customer_558,Consumer,2023-03-01
+C1559,Customer_559,Corporate,2023-07-31
+C1560,Customer_560,Consumer,2020-07-08
+C1561,Customer_561,Home Office,2022-01-17
+C1562,Customer_562,Consumer,2021-04-26
+C1563,Customer_563,Consumer,2023-05-19
+C1564,Customer_564,Home Office,2020-06-04
+C1565,Customer_565,Home Office,2021-01-03
+C1566,Customer_566,Consumer,2021-08-04
+C1567,Customer_567,Corporate,2023-03-07
+C1568,Customer_568,Home Office,2023-01-15
+C1569,Customer_569,Corporate,2022-12-11
+C1570,Customer_570,Consumer,2023-05-20
+C1571,Customer_571,Consumer,2021-07-25
+C1572,Customer_572,Consumer,2020-11-07
+C1573,Customer_573,Corporate,2022-12-13
+C1574,Customer_574,Corporate,2021-12-31
+C1575,Customer_575,Consumer,2022-03-26
+C1576,Customer_576,Corporate,2022-02-26
+C1577,Customer_577,Home Office,2022-04-14
+C1578,Customer_578,Consumer,2021-11-12
+C1579,Customer_579,Corporate,2020-12-07
+C1580,Customer_580,Home Office,2023-10-25
+C1581,Customer_581,Corporate,2020-12-23
+C1582,Customer_582,Home Office,2021-02-09
+C1583,Customer_583,Corporate,2020-06-17
+C1584,Customer_584,Consumer,2020-12-25
+C1585,Customer_585,Corporate,2022-10-31
+C1586,Customer_586,Home Office,2021-12-30
+C1587,Customer_587,Home Office,2022-01-10
+C1588,Customer_588,Consumer,2021-12-29
+C1589,Customer_589,Home Office,2020-07-26
+C1590,Customer_590,Corporate,2020-12-28
+C1591,Customer_591,Consumer,2022-01-24
+C1592,Customer_592,Corporate,2022-12-29
+C1593,Customer_593,Corporate,2023-01-23
+C1594,Customer_594,Corporate,2022-07-06
+C1595,Customer_595,Corporate,2021-07-08
+C1596,Customer_596,Home Office,2021-01-13
+C1597,Customer_597,Corporate,2021-07-03
+C1598,Customer_598,Consumer,2021-09-26
+C1599,Customer_599,Corporate,2022-07-29
+C1600,Customer_600,Home Office,2020-01-25
+C1601,Customer_601,Consumer,2020-10-11
+C1602,Customer_602,Consumer,2020-05-11
+C1603,Customer_603,Home Office,2024-01-25
+C1604,Customer_604,Consumer,2021-03-08
+C1605,Customer_605,Consumer,2020-02-08
+C1606,Customer_606,Corporate,2022-09-23
+C1607,Customer_607,Consumer,2021-12-29
+C1608,Customer_608,Consumer,2021-08-27
+C1609,Customer_609,Corporate,2022-06-13
+C1610,Customer_610,Home Office,2021-10-11
+C1611,Customer_611,Corporate,2023-08-27
+C1612,Customer_612,Corporate,2023-09-26
+C1613,Customer_613,Home Office,2023-04-17
+C1614,Customer_614,Corporate,2023-12-24
+C1615,Customer_615,Corporate,2023-02-19
+C1616,Customer_616,Consumer,2022-06-20
+C1617,Customer_617,Corporate,2022-11-21
+C1618,Customer_618,Consumer,2023-08-02
+C1619,Customer_619,Corporate,2024-01-23
+C1620,Customer_620,Home Office,2022-10-18
+C1621,Customer_621,Consumer,2024-01-28
+C1622,Customer_622,Corporate,2023-04-05
+C1623,Customer_623,Consumer,2021-06-18
+C1624,Customer_624,Home Office,2022-05-09
+C1625,Customer_625,Consumer,2020-11-15
+C1626,Customer_626,Corporate,2020-11-20
+C1627,Customer_627,Corporate,2022-01-15
+C1628,Customer_628,Corporate,2023-06-28
+C1629,Customer_629,Home Office,2021-06-03
+C1630,Customer_630,Home Office,2021-01-18
+C1631,Customer_631,Home Office,2021-07-14
+C1632,Customer_632,Corporate,2023-03-15
+C1633,Customer_633,Corporate,2022-01-17
+C1634,Customer_634,Home Office,2020-07-27
+C1635,Customer_635,Consumer,2020-12-22
+C1636,Customer_636,Home Office,2023-04-27
+C1637,Customer_637,Home Office,2023-12-11
+C1638,Customer_638,Consumer,2022-12-31
+C1639,Customer_639,Consumer,2021-12-19
+C1640,Customer_640,Corporate,2021-07-14
+C1641,Customer_641,Corporate,2020-09-03
+C1642,Customer_642,Corporate,2020-05-17
+C1643,Customer_643,Home Office,2022-06-02
+C1644,Customer_644,Corporate,2020-09-25
+C1645,Customer_645,Consumer,2023-10-07
+C1646,Customer_646,Consumer,2024-02-02
+C1647,Customer_647,Corporate,2020-03-03
+C1648,Customer_648,Home Office,2021-07-05
+C1649,Customer_649,Consumer,2022-01-15
+C1650,Customer_650,Home Office,2020-07-29
+C1651,Customer_651,Corporate,2022-09-07
+C1652,Customer_652,Consumer,2021-08-26
+C1653,Customer_653,Home Office,2022-09-19
+C1654,Customer_654,Consumer,2020-02-08
+C1655,Customer_655,Consumer,2020-05-23
+C1656,Customer_656,Consumer,2023-08-23
+C1657,Customer_657,Corporate,2020-07-29
+C1658,Customer_658,Home Office,2023-12-01
+C1659,Customer_659,Home Office,2023-11-15
+C1660,Customer_660,Home Office,2020-02-18
+C1661,Customer_661,Consumer,2020-06-21
+C1662,Customer_662,Corporate,2022-01-26
+C1663,Customer_663,Corporate,2020-03-02
+C1664,Customer_664,Consumer,2021-11-06
+C1665,Customer_665,Home Office,2020-07-27
+C1666,Customer_666,Home Office,2021-07-07
+C1667,Customer_667,Consumer,2023-10-27
+C1668,Customer_668,Consumer,2022-01-22
+C1669,Customer_669,Home Office,2023-01-13
+C1670,Customer_670,Corporate,2022-07-28
+C1671,Customer_671,Consumer,2022-12-24
+C1672,Customer_672,Corporate,2024-02-01
+C1673,Customer_673,Consumer,2020-03-02
+C1674,Customer_674,Corporate,2023-11-10
+C1675,Customer_675,Consumer,2023-04-30
+C1676,Customer_676,Consumer,2021-11-17
+C1677,Customer_677,Home Office,2023-02-19
+C1678,Customer_678,Consumer,2023-12-14
+C1679,Customer_679,Consumer,2021-05-27
+C1680,Customer_680,Home Office,2023-11-12
+C1681,Customer_681,Home Office,2022-05-10
+C1682,Customer_682,Home Office,2023-03-10
+C1683,Customer_683,Consumer,2021-12-10
+C1684,Customer_684,Corporate,2021-05-06
+C1685,Customer_685,Home Office,2022-11-15
+C1686,Customer_686,Home Office,2023-09-09
+C1687,Customer_687,Consumer,2021-07-16
+C1688,Customer_688,Consumer,2023-07-24
+C1689,Customer_689,Home Office,2023-08-08
+C1690,Customer_690,Corporate,2022-01-23
+C1691,Customer_691,Corporate,2022-10-29
+C1692,Customer_692,Corporate,2023-01-19
+C1693,Customer_693,Home Office,2023-01-22
+C1694,Customer_694,Home Office,2022-12-28
+C1695,Customer_695,Consumer,2020-07-09
+C1696,Customer_696,Corporate,2021-06-26
+C1697,Customer_697,Home Office,2022-11-03
+C1698,Customer_698,Corporate,2021-12-20
+C1699,Customer_699,Corporate,2021-01-18
+C1700,Customer_700,Home Office,2023-02-07
+C1701,Customer_701,Corporate,2023-07-11
+C1702,Customer_702,Home Office,2023-10-16
+C1703,Customer_703,Home Office,2020-12-11
+C1704,Customer_704,Home Office,2020-08-09
+C1705,Customer_705,Corporate,2020-04-03
+C1706,Customer_706,Home Office,2022-11-15
+C1707,Customer_707,Consumer,2020-05-27
+C1708,Customer_708,Consumer,2023-04-03
+C1709,Customer_709,Home Office,2021-08-20
+C1710,Customer_710,Home Office,2022-09-19
+C1711,Customer_711,Consumer,2020-03-14
+C1712,Customer_712,Corporate,2023-02-20
+C1713,Customer_713,Home Office,2023-07-21
+C1714,Customer_714,Home Office,2020-07-25
+C1715,Customer_715,Corporate,2021-12-06
+C1716,Customer_716,Home Office,2021-11-12
+C1717,Customer_717,Corporate,2021-07-26
+C1718,Customer_718,Corporate,2021-12-27
+C1719,Customer_719,Consumer,2021-11-30
+C1720,Customer_720,Corporate,2020-12-24
+C1721,Customer_721,Home Office,2023-04-07
+C1722,Customer_722,Consumer,2020-08-07
+C1723,Customer_723,Corporate,2020-02-25
+C1724,Customer_724,Corporate,2021-05-14
+C1725,Customer_725,Home Office,2021-07-26
+C1726,Customer_726,Home Office,2022-12-02
+C1727,Customer_727,Consumer,2021-06-08
+C1728,Customer_728,Consumer,2020-07-21
+C1729,Customer_729,Home Office,2021-08-22
+C1730,Customer_730,Home Office,2022-10-29
+C1731,Customer_731,Consumer,2023-04-04
+C1732,Customer_732,Home Office,2021-01-12
+C1733,Customer_733,Corporate,2023-02-02
+C1734,Customer_734,Home Office,2022-06-04
+C1735,Customer_735,Home Office,2022-08-07
+C1736,Customer_736,Corporate,2020-02-07
+C1737,Customer_737,Home Office,2023-11-25
+C1738,Customer_738,Home Office,2021-06-10
+C1739,Customer_739,Home Office,2020-12-11
+C1740,Customer_740,Consumer,2021-08-17
+C1741,Customer_741,Consumer,2020-01-12
+C1742,Customer_742,Corporate,2020-07-12
+C1743,Customer_743,Consumer,2021-12-26
+C1744,Customer_744,Consumer,2021-03-24
+C1745,Customer_745,Home Office,2021-12-30
+C1746,Customer_746,Home Office,2020-11-08
+C1747,Customer_747,Consumer,2020-11-04
+C1748,Customer_748,Corporate,2021-08-20
+C1749,Customer_749,Home Office,2020-07-05
+C1750,Customer_750,Consumer,2021-02-24
+C1751,Customer_751,Corporate,2021-04-17
+C1752,Customer_752,Corporate,2021-12-03
+C1753,Customer_753,Consumer,2020-09-29
+C1754,Customer_754,Corporate,2023-01-29
+C1755,Customer_755,Consumer,2022-04-25
+C1756,Customer_756,Corporate,2022-11-30
+C1757,Customer_757,Corporate,2022-07-25
+C1758,Customer_758,Consumer,2021-04-24
+C1759,Customer_759,Corporate,2023-04-11
+C1760,Customer_760,Corporate,2020-05-30
+C1761,Customer_761,Corporate,2020-12-07
+C1762,Customer_762,Home Office,2021-05-06
+C1763,Customer_763,Corporate,2021-03-13
+C1764,Customer_764,Corporate,2020-05-31
+C1765,Customer_765,Corporate,2020-02-07
+C1766,Customer_766,Corporate,2023-12-09
+C1767,Customer_767,Corporate,2021-12-03
+C1768,Customer_768,Corporate,2022-07-25
+C1769,Customer_769,Consumer,2021-01-21
+C1770,Customer_770,Corporate,2021-04-16
+C1771,Customer_771,Corporate,2021-07-15
+C1772,Customer_772,Consumer,2021-09-18
+C1773,Customer_773,Home Office,2020-07-02
+C1774,Customer_774,Consumer,2022-03-28
+C1775,Customer_775,Corporate,2022-11-11
+C1776,Customer_776,Consumer,2022-06-21
+C1777,Customer_777,Consumer,2023-08-27
+C1778,Customer_778,Consumer,2021-03-13
+C1779,Customer_779,Home Office,2022-08-31
+C1780,Customer_780,Consumer,2022-06-17
+C1781,Customer_781,Corporate,2023-06-11
+C1782,Customer_782,Home Office,2021-11-28
+C1783,Customer_783,Corporate,2020-09-12
+C1784,Customer_784,Corporate,2022-09-03
+C1785,Customer_785,Consumer,2023-10-18
+C1786,Customer_786,Home Office,2023-04-30
+C1787,Customer_787,Corporate,2021-12-25
+C1788,Customer_788,Consumer,2022-01-16
+C1789,Customer_789,Corporate,2022-10-31
+C1790,Customer_790,Consumer,2020-03-03
+C1791,Customer_791,Corporate,2021-11-23
+C1792,Customer_792,Corporate,2022-05-18
+C1793,Customer_793,Home Office,2020-06-04
+C1794,Customer_794,Consumer,2023-02-24
+C1795,Customer_795,Home Office,2022-10-08
+C1796,Customer_796,Corporate,2021-02-12
+C1797,Customer_797,Consumer,2023-03-05
+C1798,Customer_798,Home Office,2023-07-25
+C1799,Customer_799,Home Office,2023-01-31
+C1800,Customer_800,Consumer,2022-10-04
+C1801,Customer_801,Corporate,2020-11-16
+C1802,Customer_802,Home Office,2022-09-26
+C1803,Customer_803,Corporate,2023-03-04
+C1804,Customer_804,Corporate,2023-11-07
+C1805,Customer_805,Consumer,2023-06-20
+C1806,Customer_806,Corporate,2021-10-30
+C1807,Customer_807,Consumer,2021-11-13
+C1808,Customer_808,Home Office,2022-11-29
+C1809,Customer_809,Corporate,2020-04-13
+C1810,Customer_810,Home Office,2020-09-25
+C1811,Customer_811,Corporate,2021-12-10
+C1812,Customer_812,Consumer,2020-09-20
+C1813,Customer_813,Home Office,2021-06-24
+C1814,Customer_814,Home Office,2022-09-18
+C1815,Customer_815,Corporate,2023-04-25
+C1816,Customer_816,Home Office,2022-11-27
+C1817,Customer_817,Consumer,2022-12-20
+C1818,Customer_818,Corporate,2022-09-12
+C1819,Customer_819,Consumer,2021-05-06
+C1820,Customer_820,Corporate,2021-02-07
+C1821,Customer_821,Consumer,2022-01-29
+C1822,Customer_822,Home Office,2020-05-18
+C1823,Customer_823,Home Office,2021-12-08
+C1824,Customer_824,Corporate,2022-05-29
+C1825,Customer_825,Corporate,2023-11-28
+C1826,Customer_826,Consumer,2022-04-15
+C1827,Customer_827,Home Office,2022-10-14
+C1828,Customer_828,Corporate,2022-08-11
+C1829,Customer_829,Home Office,2022-08-08
+C1830,Customer_830,Consumer,2023-07-31
+C1831,Customer_831,Consumer,2022-11-17
+C1832,Customer_832,Consumer,2023-10-12
+C1833,Customer_833,Home Office,2023-10-20
+C1834,Customer_834,Corporate,2021-10-28
+C1835,Customer_835,Corporate,2020-01-31
+C1836,Customer_836,Consumer,2021-09-08
+C1837,Customer_837,Consumer,2020-09-29
+C1838,Customer_838,Home Office,2022-06-04
+C1839,Customer_839,Corporate,2021-03-26
+C1840,Customer_840,Home Office,2022-05-17
+C1841,Customer_841,Home Office,2021-05-28
+C1842,Customer_842,Corporate,2020-12-08
+C1843,Customer_843,Home Office,2020-07-31
+C1844,Customer_844,Corporate,2020-01-27
+C1845,Customer_845,Corporate,2022-07-01
+C1846,Customer_846,Consumer,2023-05-23
+C1847,Customer_847,Corporate,2020-05-03
+C1848,Customer_848,Consumer,2020-04-20
+C1849,Customer_849,Consumer,2020-03-02
+C1850,Customer_850,Consumer,2022-04-10
+C1851,Customer_851,Home Office,2022-04-04
+C1852,Customer_852,Consumer,2023-03-07
+C1853,Customer_853,Consumer,2023-10-04
+C1854,Customer_854,Consumer,2021-07-25
+C1855,Customer_855,Corporate,2024-01-24
+C1856,Customer_856,Consumer,2020-05-08
+C1857,Customer_857,Home Office,2023-02-20
+C1858,Customer_858,Corporate,2022-09-24
+C1859,Customer_859,Corporate,2023-06-10
+C1860,Customer_860,Consumer,2022-03-16
+C1861,Customer_861,Home Office,2023-01-08
+C1862,Customer_862,Corporate,2020-09-24
+C1863,Customer_863,Consumer,2022-07-07
+C1864,Customer_864,Home Office,2020-06-27
+C1865,Customer_865,Consumer,2023-10-13
+C1866,Customer_866,Consumer,2022-09-19
+C1867,Customer_867,Corporate,2020-01-04
+C1868,Customer_868,Corporate,2020-08-10
+C1869,Customer_869,Home Office,2020-09-11
+C1870,Customer_870,Consumer,2022-08-22
+C1871,Customer_871,Consumer,2021-06-09
+C1872,Customer_872,Corporate,2020-03-21
+C1873,Customer_873,Home Office,2023-10-31
+C1874,Customer_874,Consumer,2020-05-15
+C1875,Customer_875,Consumer,2022-01-24
+C1876,Customer_876,Consumer,2020-10-16
+C1877,Customer_877,Home Office,2023-10-27
+C1878,Customer_878,Corporate,2023-08-17
+C1879,Customer_879,Consumer,2021-02-12
+C1880,Customer_880,Consumer,2021-01-02
+C1881,Customer_881,Home Office,2020-10-20
+C1882,Customer_882,Corporate,2022-06-17
+C1883,Customer_883,Consumer,2020-07-12
+C1884,Customer_884,Home Office,2020-01-28
+C1885,Customer_885,Home Office,2023-09-15
+C1886,Customer_886,Home Office,2023-11-20
+C1887,Customer_887,Consumer,2021-06-29
+C1888,Customer_888,Corporate,2021-02-11
+C1889,Customer_889,Home Office,2022-01-02
+C1890,Customer_890,Corporate,2023-11-12
+C1891,Customer_891,Corporate,2021-11-07
+C1892,Customer_892,Home Office,2022-09-14
+C1893,Customer_893,Home Office,2020-12-19
+C1894,Customer_894,Corporate,2020-01-05
+C1895,Customer_895,Consumer,2020-03-19
+C1896,Customer_896,Home Office,2021-07-03
+C1897,Customer_897,Home Office,2023-10-20
+C1898,Customer_898,Home Office,2022-01-12
+C1899,Customer_899,Home Office,2021-07-01
+C1900,Customer_900,Consumer,2020-06-13
+C1901,Customer_901,Consumer,2021-03-14
+C1902,Customer_902,Home Office,2021-02-11
+C1903,Customer_903,Home Office,2022-10-27
+C1904,Customer_904,Home Office,2023-03-18
+C1905,Customer_905,Corporate,2022-10-08
+C1906,Customer_906,Consumer,2021-06-16
+C1907,Customer_907,Home Office,2020-02-03
+C1908,Customer_908,Corporate,2020-12-31
+C1909,Customer_909,Home Office,2022-03-17
+C1910,Customer_910,Corporate,2023-09-16
+C1911,Customer_911,Consumer,2021-05-18
+C1912,Customer_912,Home Office,2024-01-27
+C1913,Customer_913,Home Office,2023-04-20
+C1914,Customer_914,Corporate,2022-06-28
+C1915,Customer_915,Consumer,2021-12-27
+C1916,Customer_916,Home Office,2022-08-24
+C1917,Customer_917,Home Office,2021-09-21
+C1918,Customer_918,Corporate,2021-05-10
+C1919,Customer_919,Home Office,2021-05-27
+C1920,Customer_920,Corporate,2023-11-27
+C1921,Customer_921,Home Office,2022-02-03
+C1922,Customer_922,Corporate,2022-03-25
+C1923,Customer_923,Consumer,2021-01-25
+C1924,Customer_924,Corporate,2023-09-24
+C1925,Customer_925,Consumer,2020-11-27
+C1926,Customer_926,Consumer,2022-11-12
+C1927,Customer_927,Home Office,2022-09-08
+C1928,Customer_928,Home Office,2020-05-02
+C1929,Customer_929,Home Office,2023-09-26
+C1930,Customer_930,Home Office,2023-10-19
+C1931,Customer_931,Consumer,2021-12-04
+C1932,Customer_932,Home Office,2023-08-30
+C1933,Customer_933,Home Office,2020-02-27
+C1934,Customer_934,Home Office,2023-01-01
+C1935,Customer_935,Corporate,2023-06-09
+C1936,Customer_936,Home Office,2022-10-25
+C1937,Customer_937,Home Office,2023-02-13
+C1938,Customer_938,Home Office,2023-08-27
+C1939,Customer_939,Consumer,2021-05-27
+C1940,Customer_940,Consumer,2020-02-22
+C1941,Customer_941,Home Office,2022-01-07
+C1942,Customer_942,Consumer,2021-10-07
+C1943,Customer_943,Corporate,2022-08-22
+C1944,Customer_944,Home Office,2022-04-01
+C1945,Customer_945,Home Office,2020-09-17
+C1946,Customer_946,Home Office,2022-09-27
+C1947,Customer_947,Corporate,2023-11-12
+C1948,Customer_948,Consumer,2023-07-16
+C1949,Customer_949,Corporate,2023-02-20
+C1950,Customer_950,Corporate,2022-07-09
+C1951,Customer_951,Corporate,2023-07-18
+C1952,Customer_952,Consumer,2023-06-13
+C1953,Customer_953,Home Office,2022-07-06
+C1954,Customer_954,Home Office,2021-06-07
+C1955,Customer_955,Home Office,2022-12-26
+C1956,Customer_956,Home Office,2021-04-23
+C1957,Customer_957,Home Office,2022-08-27
+C1958,Customer_958,Consumer,2021-03-25
+C1959,Customer_959,Consumer,2022-06-18
+C1960,Customer_960,Consumer,2022-11-13
+C1961,Customer_961,Home Office,2021-04-16
+C1962,Customer_962,Corporate,2023-01-07
+C1963,Customer_963,Consumer,2024-02-02
+C1964,Customer_964,Consumer,2020-11-08
+C1965,Customer_965,Corporate,2024-01-11
+C1966,Customer_966,Corporate,2023-10-20
+C1967,Customer_967,Home Office,2022-07-19
+C1968,Customer_968,Home Office,2022-11-21
+C1969,Customer_969,Corporate,2020-09-07
+C1970,Customer_970,Home Office,2021-06-04
+C1971,Customer_971,Consumer,2023-08-14
+C1972,Customer_972,Home Office,2021-10-20
+C1973,Customer_973,Corporate,2022-05-17
+C1974,Customer_974,Corporate,2023-09-14
+C1975,Customer_975,Corporate,2022-08-01
+C1976,Customer_976,Consumer,2021-03-17
+C1977,Customer_977,Corporate,2020-01-14
+C1978,Customer_978,Consumer,2022-06-09
+C1979,Customer_979,Corporate,2023-02-05
+C1980,Customer_980,Corporate,2022-10-27
+C1981,Customer_981,Consumer,2021-03-26
+C1982,Customer_982,Corporate,2020-05-31
+C1983,Customer_983,Consumer,2022-07-31
+C1984,Customer_984,Home Office,2024-01-17
+C1985,Customer_985,Consumer,2023-12-10
+C1986,Customer_986,Consumer,2020-12-23
+C1987,Customer_987,Consumer,2021-12-06
+C1988,Customer_988,Corporate,2021-10-25
+C1989,Customer_989,Home Office,2022-03-11
+C1990,Customer_990,Consumer,2023-03-24
+C1991,Customer_991,Corporate,2021-08-07
+C1992,Customer_992,Corporate,2021-09-02
+C1993,Customer_993,Consumer,2020-11-03
+C1994,Customer_994,Corporate,2020-10-06
+C1995,Customer_995,Home Office,2023-09-02
+C1996,Customer_996,Consumer,2023-12-27
+C1997,Customer_997,Home Office,2023-01-22
+C1998,Customer_998,Home Office,2022-06-19
+C1999,Customer_999,Consumer,2022-01-17
+C2000,Customer_1000,Consumer,2023-04-26
+C2001,Customer_1001,Corporate,2020-09-20
+C2002,Customer_1002,Consumer,2022-01-05
+C2003,Customer_1003,Corporate,2021-09-01
+C2004,Customer_1004,Corporate,2022-02-14
+C2005,Customer_1005,Home Office,2023-07-28
+C2006,Customer_1006,Corporate,2023-12-14
+C2007,Customer_1007,Home Office,2021-09-06
+C2008,Customer_1008,Corporate,2020-07-25
+C2009,Customer_1009,Consumer,2021-02-03
+C2010,Customer_1010,Corporate,2023-01-15
+C2011,Customer_1011,Corporate,2024-01-06
+C2012,Customer_1012,Home Office,2020-01-19
+C2013,Customer_1013,Home Office,2022-04-05
+C2014,Customer_1014,Home Office,2022-09-11
+C2015,Customer_1015,Home Office,2023-01-08
+C2016,Customer_1016,Corporate,2020-10-13
+C2017,Customer_1017,Consumer,2023-02-15
+C2018,Customer_1018,Consumer,2020-03-16
+C2019,Customer_1019,Consumer,2020-05-31
+C2020,Customer_1020,Consumer,2020-11-19
+C2021,Customer_1021,Corporate,2023-04-17
+C2022,Customer_1022,Corporate,2021-11-18
+C2023,Customer_1023,Corporate,2023-11-21
+C2024,Customer_1024,Corporate,2020-03-20
+C2025,Customer_1025,Home Office,2022-03-31
+C2026,Customer_1026,Corporate,2021-03-31
+C2027,Customer_1027,Consumer,2023-11-19
+C2028,Customer_1028,Consumer,2023-03-22
+C2029,Customer_1029,Corporate,2023-09-11
+C2030,Customer_1030,Corporate,2021-10-01
+C2031,Customer_1031,Home Office,2023-03-23
+C2032,Customer_1032,Home Office,2023-04-07
+C2033,Customer_1033,Corporate,2021-02-26
+C2034,Customer_1034,Consumer,2020-01-30
+C2035,Customer_1035,Corporate,2023-08-06
+C2036,Customer_1036,Home Office,2021-05-30
+C2037,Customer_1037,Corporate,2020-03-30
+C2038,Customer_1038,Home Office,2020-03-14
+C2039,Customer_1039,Home Office,2020-07-11
+C2040,Customer_1040,Home Office,2023-12-05
+C2041,Customer_1041,Corporate,2023-02-23
+C2042,Customer_1042,Home Office,2023-09-14
+C2043,Customer_1043,Corporate,2021-10-15
+C2044,Customer_1044,Consumer,2023-04-02
+C2045,Customer_1045,Consumer,2022-04-29
+C2046,Customer_1046,Home Office,2023-04-22
+C2047,Customer_1047,Corporate,2024-01-20
+C2048,Customer_1048,Corporate,2023-04-24
+C2049,Customer_1049,Consumer,2020-12-25
+C2050,Customer_1050,Home Office,2020-03-12
+C2051,Customer_1051,Corporate,2021-07-30
+C2052,Customer_1052,Consumer,2020-07-13
+C2053,Customer_1053,Home Office,2021-12-12
+C2054,Customer_1054,Corporate,2021-07-19
+C2055,Customer_1055,Consumer,2020-05-18
+C2056,Customer_1056,Home Office,2022-01-25
+C2057,Customer_1057,Corporate,2022-10-25
+C2058,Customer_1058,Home Office,2021-09-24
+C2059,Customer_1059,Home Office,2023-09-14
+C2060,Customer_1060,Corporate,2022-12-24
+C2061,Customer_1061,Home Office,2020-04-07
+C2062,Customer_1062,Consumer,2022-12-26
+C2063,Customer_1063,Corporate,2020-11-25
+C2064,Customer_1064,Corporate,2020-08-15
+C2065,Customer_1065,Consumer,2021-07-18
+C2066,Customer_1066,Home Office,2023-03-14
+C2067,Customer_1067,Consumer,2022-07-27
+C2068,Customer_1068,Home Office,2022-12-08
+C2069,Customer_1069,Home Office,2023-01-13
+C2070,Customer_1070,Corporate,2022-03-01
+C2071,Customer_1071,Home Office,2020-05-08
+C2072,Customer_1072,Home Office,2020-10-05
+C2073,Customer_1073,Home Office,2020-05-08
+C2074,Customer_1074,Corporate,2020-03-01
+C2075,Customer_1075,Home Office,2022-07-24
+C2076,Customer_1076,Corporate,2021-10-12
+C2077,Customer_1077,Corporate,2024-01-24
+C2078,Customer_1078,Home Office,2022-11-04
+C2079,Customer_1079,Consumer,2023-06-29
+C2080,Customer_1080,Corporate,2023-08-10
+C2081,Customer_1081,Corporate,2022-06-14
+C2082,Customer_1082,Home Office,2021-09-28
+C2083,Customer_1083,Corporate,2021-02-01
+C2084,Customer_1084,Home Office,2023-09-17
+C2085,Customer_1085,Home Office,2022-10-29
+C2086,Customer_1086,Home Office,2020-01-18
+C2087,Customer_1087,Consumer,2023-11-22
+C2088,Customer_1088,Consumer,2023-07-09
+C2089,Customer_1089,Corporate,2023-10-27
+C2090,Customer_1090,Consumer,2021-06-30
+C2091,Customer_1091,Corporate,2023-04-11
+C2092,Customer_1092,Corporate,2021-10-08
+C2093,Customer_1093,Consumer,2020-08-03
+C2094,Customer_1094,Home Office,2020-02-26
+C2095,Customer_1095,Home Office,2021-04-18
+C2096,Customer_1096,Consumer,2022-12-01
+C2097,Customer_1097,Home Office,2022-09-11
+C2098,Customer_1098,Home Office,2024-01-17
+C2099,Customer_1099,Home Office,2021-10-21
+C2100,Customer_1100,Corporate,2021-12-31
+C2101,Customer_1101,Home Office,2022-09-15
+C2102,Customer_1102,Corporate,2020-07-28
+C2103,Customer_1103,Consumer,2022-03-01
+C2104,Customer_1104,Home Office,2022-02-15
+C2105,Customer_1105,Home Office,2022-08-14
+C2106,Customer_1106,Corporate,2022-10-22
+C2107,Customer_1107,Home Office,2022-07-25
+C2108,Customer_1108,Home Office,2022-02-28
+C2109,Customer_1109,Corporate,2023-06-02
+C2110,Customer_1110,Home Office,2021-02-28
+C2111,Customer_1111,Consumer,2022-04-08
+C2112,Customer_1112,Consumer,2023-12-23
+C2113,Customer_1113,Corporate,2023-08-29
+C2114,Customer_1114,Home Office,2023-10-06
+C2115,Customer_1115,Home Office,2021-06-13
+C2116,Customer_1116,Consumer,2022-03-01
+C2117,Customer_1117,Home Office,2022-07-13
+C2118,Customer_1118,Corporate,2021-02-24
+C2119,Customer_1119,Consumer,2023-12-02
+C2120,Customer_1120,Consumer,2023-03-18
+C2121,Customer_1121,Home Office,2020-07-02
+C2122,Customer_1122,Consumer,2020-09-04
+C2123,Customer_1123,Consumer,2023-06-06
+C2124,Customer_1124,Consumer,2021-03-02
+C2125,Customer_1125,Consumer,2023-08-31
+C2126,Customer_1126,Home Office,2020-07-22
+C2127,Customer_1127,Home Office,2023-03-08
+C2128,Customer_1128,Home Office,2022-01-25
+C2129,Customer_1129,Corporate,2021-02-08
+C2130,Customer_1130,Corporate,2020-10-21
+C2131,Customer_1131,Consumer,2021-07-21
+C2132,Customer_1132,Home Office,2021-03-20
+C2133,Customer_1133,Corporate,2023-01-03
+C2134,Customer_1134,Corporate,2020-03-07
+C2135,Customer_1135,Consumer,2023-05-23
+C2136,Customer_1136,Corporate,2022-05-15
+C2137,Customer_1137,Home Office,2020-04-29
+C2138,Customer_1138,Home Office,2023-08-26
+C2139,Customer_1139,Corporate,2021-10-19
+C2140,Customer_1140,Home Office,2020-07-11
+C2141,Customer_1141,Home Office,2023-04-24
+C2142,Customer_1142,Corporate,2022-03-13
+C2143,Customer_1143,Corporate,2023-12-12
+C2144,Customer_1144,Corporate,2020-12-21
+C2145,Customer_1145,Corporate,2020-04-01
+C2146,Customer_1146,Corporate,2023-09-11
+C2147,Customer_1147,Consumer,2021-06-27
+C2148,Customer_1148,Home Office,2021-11-11
+C2149,Customer_1149,Corporate,2021-10-22
+C2150,Customer_1150,Home Office,2020-03-03
+C2151,Customer_1151,Consumer,2021-03-09
+C2152,Customer_1152,Corporate,2022-03-27
+C2153,Customer_1153,Consumer,2022-08-16
+C2154,Customer_1154,Home Office,2020-10-19
+C2155,Customer_1155,Home Office,2022-03-07
+C2156,Customer_1156,Consumer,2023-11-20
+C2157,Customer_1157,Home Office,2020-12-15
+C2158,Customer_1158,Corporate,2023-05-04
+C2159,Customer_1159,Consumer,2022-06-18
+C2160,Customer_1160,Consumer,2020-05-22
+C2161,Customer_1161,Consumer,2023-03-28
+C2162,Customer_1162,Corporate,2022-10-28
+C2163,Customer_1163,Corporate,2020-07-18
+C2164,Customer_1164,Consumer,2020-02-09
+C2165,Customer_1165,Corporate,2020-07-20
+C2166,Customer_1166,Home Office,2023-06-22
+C2167,Customer_1167,Home Office,2021-04-18
+C2168,Customer_1168,Corporate,2021-07-09
+C2169,Customer_1169,Corporate,2021-08-26
+C2170,Customer_1170,Home Office,2022-02-08
+C2171,Customer_1171,Home Office,2024-02-01
+C2172,Customer_1172,Consumer,2021-03-01
+C2173,Customer_1173,Consumer,2021-12-21
+C2174,Customer_1174,Consumer,2022-04-06
+C2175,Customer_1175,Consumer,2022-08-19
+C2176,Customer_1176,Home Office,2022-03-03
+C2177,Customer_1177,Consumer,2022-01-30
+C2178,Customer_1178,Home Office,2022-10-10
+C2179,Customer_1179,Corporate,2021-10-02
+C2180,Customer_1180,Home Office,2022-03-05
+C2181,Customer_1181,Consumer,2021-01-03
+C2182,Customer_1182,Home Office,2022-09-30
+C2183,Customer_1183,Corporate,2022-11-05
+C2184,Customer_1184,Home Office,2020-10-09
+C2185,Customer_1185,Corporate,2021-01-16
+C2186,Customer_1186,Consumer,2021-07-03
+C2187,Customer_1187,Consumer,2021-03-03
+C2188,Customer_1188,Corporate,2022-11-18
+C2189,Customer_1189,Corporate,2022-02-14
+C2190,Customer_1190,Corporate,2021-09-30
+C2191,Customer_1191,Consumer,2023-09-14
+C2192,Customer_1192,Consumer,2023-01-23
+C2193,Customer_1193,Home Office,2022-09-26
+C2194,Customer_1194,Home Office,2021-12-26
+C2195,Customer_1195,Home Office,2022-03-23
+C2196,Customer_1196,Home Office,2021-05-10
+C2197,Customer_1197,Corporate,2020-04-01
+C2198,Customer_1198,Home Office,2021-05-27
+C2199,Customer_1199,Home Office,2023-05-08
